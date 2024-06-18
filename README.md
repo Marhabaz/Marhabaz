@@ -1,0 +1,7 @@
+- 👋 Hi, I'm Faizan
+- 👨‍💻 I specialize in WordPress, Elementor, and WooCommerce
+- 🌱 I'm continuously learning new techniques in web development
+- 💬 I’m open to collaborating on WordPress projects
+- 📧 Feel free to reach me via [Your preferred contact method]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also passionate about photography!
